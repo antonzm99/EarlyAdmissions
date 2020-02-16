@@ -1,4 +1,4 @@
-use "C:\Users\zmurr\Dropbox\PhD\Research Projects\Papers\Early Admissions\Write Up\V10\DATA\Data_EA2020.dta",clear
+use "Data_EA2020.dta",clear
 
 *Generate Variables:
 	label define early 1 "ED" 0 "REA",replace
